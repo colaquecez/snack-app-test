@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "SZZJ45QMG3.com.snack-app.mobile.app--qa",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
